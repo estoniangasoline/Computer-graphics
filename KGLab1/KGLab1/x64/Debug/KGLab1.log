@@ -1,0 +1,273 @@
+﻿  KGLab1.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\numbers(11): warning STL4038: The contents of <numbers> are available only with C++20 or later.
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(289,50): warning C4244: аргумент: преобразование "_Ty" в "int", возможна потеря данных
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(289,50): warning C4244:         with
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(289,50): warning C4244:         [
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(289,50): warning C4244:             _Ty=double
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(289,50): warning C4244:         ]
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(289,33): warning C4244: аргумент: преобразование "_Ty" в "int", возможна потеря данных
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(289,33): warning C4244:         with
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(289,33): warning C4244:         [
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(289,33): warning C4244:             _Ty=double
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(289,33): warning C4244:         ]
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(290,48): warning C4244: аргумент: преобразование "_Ty" в "int", возможна потеря данных
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(290,48): warning C4244:         with
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(290,48): warning C4244:         [
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(290,48): warning C4244:             _Ty=double
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(290,48): warning C4244:         ]
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(290,31): warning C4244: аргумент: преобразование "_Ty" в "int", возможна потеря данных
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(290,31): warning C4244:         with
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(290,31): warning C4244:         [
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(290,31): warning C4244:             _Ty=double
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(290,31): warning C4244:         ]
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(291,48): warning C4244: аргумент: преобразование "_Ty" в "int", возможна потеря данных
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(291,48): warning C4244:         with
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(291,48): warning C4244:         [
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(291,48): warning C4244:             _Ty=double
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(291,48): warning C4244:         ]
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(291,31): warning C4244: аргумент: преобразование "_Ty" в "int", возможна потеря данных
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(291,31): warning C4244:         with
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(291,31): warning C4244:         [
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(291,31): warning C4244:             _Ty=double
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(291,31): warning C4244:         ]
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(292,48): warning C4244: аргумент: преобразование "_Ty" в "int", возможна потеря данных
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(292,48): warning C4244:         with
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(292,48): warning C4244:         [
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(292,48): warning C4244:             _Ty=double
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(292,48): warning C4244:         ]
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(292,31): warning C4244: аргумент: преобразование "_Ty" в "int", возможна потеря данных
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(292,31): warning C4244:         with
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(292,31): warning C4244:         [
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(292,31): warning C4244:             _Ty=double
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(292,31): warning C4244:         ]
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(296,50): warning C4244: аргумент: преобразование "_Ty" в "int", возможна потеря данных
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(296,50): warning C4244:         with
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(296,50): warning C4244:         [
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(296,50): warning C4244:             _Ty=double
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(296,50): warning C4244:         ]
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(296,33): warning C4244: аргумент: преобразование "_Ty" в "int", возможна потеря данных
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(296,33): warning C4244:         with
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(296,33): warning C4244:         [
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(296,33): warning C4244:             _Ty=double
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(296,33): warning C4244:         ]
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(297,48): warning C4244: аргумент: преобразование "_Ty" в "int", возможна потеря данных
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(297,48): warning C4244:         with
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(297,48): warning C4244:         [
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(297,48): warning C4244:             _Ty=double
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(297,48): warning C4244:         ]
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(297,31): warning C4244: аргумент: преобразование "_Ty" в "int", возможна потеря данных
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(297,31): warning C4244:         with
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(297,31): warning C4244:         [
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(297,31): warning C4244:             _Ty=double
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(297,31): warning C4244:         ]
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(298,48): warning C4244: аргумент: преобразование "_Ty" в "int", возможна потеря данных
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(298,48): warning C4244:         with
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(298,48): warning C4244:         [
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(298,48): warning C4244:             _Ty=double
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(298,48): warning C4244:         ]
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(298,31): warning C4244: аргумент: преобразование "_Ty" в "int", возможна потеря данных
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(298,31): warning C4244:         with
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(298,31): warning C4244:         [
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(298,31): warning C4244:             _Ty=double
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(298,31): warning C4244:         ]
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(299,48): warning C4244: аргумент: преобразование "_Ty" в "int", возможна потеря данных
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(299,48): warning C4244:         with
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(299,48): warning C4244:         [
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(299,48): warning C4244:             _Ty=double
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(299,48): warning C4244:         ]
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(299,31): warning C4244: аргумент: преобразование "_Ty" в "int", возможна потеря данных
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(299,31): warning C4244:         with
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(299,31): warning C4244:         [
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(299,31): warning C4244:             _Ty=double
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(299,31): warning C4244:         ]
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(302,50): warning C4244: аргумент: преобразование "_Ty" в "int", возможна потеря данных
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(302,50): warning C4244:         with
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(302,50): warning C4244:         [
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(302,50): warning C4244:             _Ty=double
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(302,50): warning C4244:         ]
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(302,33): warning C4244: аргумент: преобразование "_Ty" в "int", возможна потеря данных
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(302,33): warning C4244:         with
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(302,33): warning C4244:         [
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(302,33): warning C4244:             _Ty=double
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(302,33): warning C4244:         ]
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(303,48): warning C4244: аргумент: преобразование "_Ty" в "int", возможна потеря данных
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(303,48): warning C4244:         with
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(303,48): warning C4244:         [
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(303,48): warning C4244:             _Ty=double
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(303,48): warning C4244:         ]
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(303,31): warning C4244: аргумент: преобразование "_Ty" в "int", возможна потеря данных
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(303,31): warning C4244:         with
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(303,31): warning C4244:         [
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(303,31): warning C4244:             _Ty=double
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(303,31): warning C4244:         ]
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(304,48): warning C4244: аргумент: преобразование "_Ty" в "int", возможна потеря данных
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(304,48): warning C4244:         with
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(304,48): warning C4244:         [
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(304,48): warning C4244:             _Ty=double
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(304,48): warning C4244:         ]
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(304,31): warning C4244: аргумент: преобразование "_Ty" в "int", возможна потеря данных
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(304,31): warning C4244:         with
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(304,31): warning C4244:         [
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(304,31): warning C4244:             _Ty=double
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(304,31): warning C4244:         ]
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(305,48): warning C4244: аргумент: преобразование "_Ty" в "int", возможна потеря данных
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(305,48): warning C4244:         with
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(305,48): warning C4244:         [
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(305,48): warning C4244:             _Ty=double
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(305,48): warning C4244:         ]
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(305,31): warning C4244: аргумент: преобразование "_Ty" в "int", возможна потеря данных
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(305,31): warning C4244:         with
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(305,31): warning C4244:         [
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(305,31): warning C4244:             _Ty=double
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(305,31): warning C4244:         ]
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(306,48): warning C4244: аргумент: преобразование "_Ty" в "int", возможна потеря данных
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(306,48): warning C4244:         with
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(306,48): warning C4244:         [
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(306,48): warning C4244:             _Ty=double
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(306,48): warning C4244:         ]
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(306,31): warning C4244: аргумент: преобразование "_Ty" в "int", возможна потеря данных
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(306,31): warning C4244:         with
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(306,31): warning C4244:         [
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(306,31): warning C4244:             _Ty=double
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(306,31): warning C4244:         ]
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(309,52): warning C4244: аргумент: преобразование "_Ty" в "int", возможна потеря данных
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(309,52): warning C4244:         with
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(309,52): warning C4244:         [
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(309,52): warning C4244:             _Ty=double
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(309,52): warning C4244:         ]
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(309,34): warning C4244: аргумент: преобразование "_Ty" в "int", возможна потеря данных
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(309,34): warning C4244:         with
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(309,34): warning C4244:         [
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(309,34): warning C4244:             _Ty=double
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(309,34): warning C4244:         ]
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(310,50): warning C4244: аргумент: преобразование "_Ty" в "int", возможна потеря данных
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(310,50): warning C4244:         with
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(310,50): warning C4244:         [
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(310,50): warning C4244:             _Ty=double
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(310,50): warning C4244:         ]
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(310,32): warning C4244: аргумент: преобразование "_Ty" в "int", возможна потеря данных
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(310,32): warning C4244:         with
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(310,32): warning C4244:         [
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(310,32): warning C4244:             _Ty=double
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(310,32): warning C4244:         ]
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(311,50): warning C4244: аргумент: преобразование "_Ty" в "int", возможна потеря данных
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(311,50): warning C4244:         with
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(311,50): warning C4244:         [
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(311,50): warning C4244:             _Ty=double
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(311,50): warning C4244:         ]
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(311,32): warning C4244: аргумент: преобразование "_Ty" в "int", возможна потеря данных
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(311,32): warning C4244:         with
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(311,32): warning C4244:         [
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(311,32): warning C4244:             _Ty=double
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(311,32): warning C4244:         ]
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(312,50): warning C4244: аргумент: преобразование "_Ty" в "int", возможна потеря данных
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(312,50): warning C4244:         with
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(312,50): warning C4244:         [
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(312,50): warning C4244:             _Ty=double
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(312,50): warning C4244:         ]
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(312,32): warning C4244: аргумент: преобразование "_Ty" в "int", возможна потеря данных
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(312,32): warning C4244:         with
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(312,32): warning C4244:         [
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(312,32): warning C4244:             _Ty=double
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(312,32): warning C4244:         ]
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(315,52): warning C4244: аргумент: преобразование "_Ty" в "int", возможна потеря данных
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(315,52): warning C4244:         with
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(315,52): warning C4244:         [
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(315,52): warning C4244:             _Ty=double
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(315,52): warning C4244:         ]
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(315,34): warning C4244: аргумент: преобразование "_Ty" в "int", возможна потеря данных
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(315,34): warning C4244:         with
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(315,34): warning C4244:         [
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(315,34): warning C4244:             _Ty=double
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(315,34): warning C4244:         ]
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(316,50): warning C4244: аргумент: преобразование "_Ty" в "int", возможна потеря данных
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(316,50): warning C4244:         with
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(316,50): warning C4244:         [
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(316,50): warning C4244:             _Ty=double
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(316,50): warning C4244:         ]
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(316,32): warning C4244: аргумент: преобразование "_Ty" в "int", возможна потеря данных
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(316,32): warning C4244:         with
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(316,32): warning C4244:         [
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(316,32): warning C4244:             _Ty=double
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(316,32): warning C4244:         ]
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(317,50): warning C4244: аргумент: преобразование "_Ty" в "int", возможна потеря данных
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(317,50): warning C4244:         with
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(317,50): warning C4244:         [
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(317,50): warning C4244:             _Ty=double
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(317,50): warning C4244:         ]
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(317,32): warning C4244: аргумент: преобразование "_Ty" в "int", возможна потеря данных
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(317,32): warning C4244:         with
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(317,32): warning C4244:         [
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(317,32): warning C4244:             _Ty=double
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(317,32): warning C4244:         ]
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(320,52): warning C4244: аргумент: преобразование "_Ty" в "int", возможна потеря данных
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(320,52): warning C4244:         with
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(320,52): warning C4244:         [
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(320,52): warning C4244:             _Ty=double
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(320,52): warning C4244:         ]
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(320,34): warning C4244: аргумент: преобразование "_Ty" в "int", возможна потеря данных
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(320,34): warning C4244:         with
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(320,34): warning C4244:         [
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(320,34): warning C4244:             _Ty=double
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(320,34): warning C4244:         ]
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(321,50): warning C4244: аргумент: преобразование "_Ty" в "int", возможна потеря данных
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(321,50): warning C4244:         with
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(321,50): warning C4244:         [
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(321,50): warning C4244:             _Ty=double
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(321,50): warning C4244:         ]
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(321,32): warning C4244: аргумент: преобразование "_Ty" в "int", возможна потеря данных
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(321,32): warning C4244:         with
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(321,32): warning C4244:         [
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(321,32): warning C4244:             _Ty=double
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(321,32): warning C4244:         ]
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(322,50): warning C4244: аргумент: преобразование "_Ty" в "int", возможна потеря данных
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(322,50): warning C4244:         with
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(322,50): warning C4244:         [
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(322,50): warning C4244:             _Ty=double
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(322,50): warning C4244:         ]
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(322,32): warning C4244: аргумент: преобразование "_Ty" в "int", возможна потеря данных
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(322,32): warning C4244:         with
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(322,32): warning C4244:         [
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(322,32): warning C4244:             _Ty=double
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(322,32): warning C4244:         ]
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(325,52): warning C4244: аргумент: преобразование "_Ty" в "int", возможна потеря данных
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(325,52): warning C4244:         with
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(325,52): warning C4244:         [
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(325,52): warning C4244:             _Ty=double
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(325,52): warning C4244:         ]
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(325,34): warning C4244: аргумент: преобразование "_Ty" в "int", возможна потеря данных
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(325,34): warning C4244:         with
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(325,34): warning C4244:         [
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(325,34): warning C4244:             _Ty=double
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(325,34): warning C4244:         ]
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(326,50): warning C4244: аргумент: преобразование "_Ty" в "int", возможна потеря данных
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(326,50): warning C4244:         with
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(326,50): warning C4244:         [
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(326,50): warning C4244:             _Ty=double
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(326,50): warning C4244:         ]
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(326,32): warning C4244: аргумент: преобразование "_Ty" в "int", возможна потеря данных
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(326,32): warning C4244:         with
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(326,32): warning C4244:         [
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(326,32): warning C4244:             _Ty=double
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(326,32): warning C4244:         ]
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(327,50): warning C4244: аргумент: преобразование "_Ty" в "int", возможна потеря данных
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(327,50): warning C4244:         with
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(327,50): warning C4244:         [
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(327,50): warning C4244:             _Ty=double
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(327,50): warning C4244:         ]
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(327,32): warning C4244: аргумент: преобразование "_Ty" в "int", возможна потеря данных
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(327,32): warning C4244:         with
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(327,32): warning C4244:         [
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(327,32): warning C4244:             _Ty=double
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(327,32): warning C4244:         ]
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(328,50): warning C4244: аргумент: преобразование "_Ty" в "int", возможна потеря данных
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(328,50): warning C4244:         with
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(328,50): warning C4244:         [
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(328,50): warning C4244:             _Ty=double
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(328,50): warning C4244:         ]
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(328,32): warning C4244: аргумент: преобразование "_Ty" в "int", возможна потеря данных
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(328,32): warning C4244:         with
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(328,32): warning C4244:         [
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(328,32): warning C4244:             _Ty=double
+C:\Users\User\source\repos\KGLab1\KGLab1\KGLab1.cpp(328,32): warning C4244:         ]
+  KGLab1.vcxproj -> C:\Users\User\source\repos\KGLab1\x64\Debug\KGLab1.exe
