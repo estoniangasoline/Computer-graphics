@@ -27,9 +27,15 @@
     <ClInclude Include="KGLab2.h">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
+    <ClInclude Include="anims.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="KGLab2.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="anims.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
   </ItemGroup>
@@ -55,6 +61,39 @@
       <Filter>Файлы ресурсов</Filter>
     </Image>
     <Image Include="catstat.bmp">
+      <Filter>Файлы ресурсов</Filter>
+    </Image>
+    <Image Include="catleft2.bmp">
+      <Filter>Файлы ресурсов</Filter>
+    </Image>
+    <Image Include="catleftleft.bmp">
+      <Filter>Файлы ресурсов</Filter>
+    </Image>
+    <Image Include="catright2.bmp">
+      <Filter>Файлы ресурсов</Filter>
+    </Image>
+    <Image Include="catrightright.bmp">
+      <Filter>Файлы ресурсов</Filter>
+    </Image>
+    <Image Include="catstat2.bmp">
+      <Filter>Файлы ресурсов</Filter>
+    </Image>
+    <Image Include="an1.bmp">
+      <Filter>Файлы ресурсов</Filter>
+    </Image>
+    <Image Include="an2.bmp">
+      <Filter>Файлы ресурсов</Filter>
+    </Image>
+    <Image Include="an3.bmp">
+      <Filter>Файлы ресурсов</Filter>
+    </Image>
+    <Image Include="an4.bmp">
+      <Filter>Файлы ресурсов</Filter>
+    </Image>
+    <Image Include="an5.bmp">
+      <Filter>Файлы ресурсов</Filter>
+    </Image>
+    <Image Include="an6.bmp">
       <Filter>Файлы ресурсов</Filter>
     </Image>
   </ItemGroup>

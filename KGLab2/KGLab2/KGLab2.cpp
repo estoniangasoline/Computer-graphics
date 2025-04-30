@@ -4,7 +4,7 @@
 #include "framework.h"
 #include "KGLab2.h"
 #include <chrono>
-#include <thread>
+#include "anims.h"
 
 #define MAX_LOADSTRING 100
 
@@ -12,6 +12,7 @@
 HINSTANCE hInst;                                // текущий экземпляр
 WCHAR szTitle[MAX_LOADSTRING];                  // Текст строки заголовка
 WCHAR szWindowClass[MAX_LOADSTRING];            // имя класса главного окна
+Anim current = Anim::Bed;
 
 // Отправить объявления функций, включенных в этот модуль кода:
 ATOM                MyRegisterClass(HINSTANCE hInstance);
@@ -77,7 +78,7 @@ ATOM MyRegisterClass(HINSTANCE hInstance)
     wcex.hInstance      = hInstance;
     wcex.hIcon          = LoadIcon(hInstance, MAKEINTRESOURCE(IDI_KGLAB2));
     wcex.hCursor        = LoadCursor(nullptr, IDC_ARROW);
-    wcex.hbrBackground  = (HBRUSH)(COLOR_WINDOW+1);
+    wcex.hbrBackground  = NULL;
     wcex.lpszMenuName   = MAKEINTRESOURCEW(IDC_KGLAB2);
     wcex.lpszClassName  = szWindowClass;
     wcex.hIconSm        = LoadIcon(wcex.hInstance, MAKEINTRESOURCE(IDI_SMALL));
@@ -124,8 +125,6 @@ BOOL InitInstance(HINSTANCE hInstance, int nCmdShow)
   //
 //
 
-void catAnimation(HDC hdc, HDC memdc);
-
 LRESULT CALLBACK WndProc(HWND hWnd, UINT message, WPARAM wParam, LPARAM lParam)
 {
     switch (message)
@@ -147,25 +146,38 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT message, WPARAM wParam, LPARAM lParam)
             }
         }
         break;
+    case WM_KEYDOWN:
+        {
+        int wmId = LOWORD(wParam);
+
+        switch (wmId) {
+        case VK_DOWN:
+            current = Anim::Cat;
+            InvalidateRect(hWnd, NULL, TRUE);
+            break;
+        case VK_UP:
+            current = Anim::Mage;
+            InvalidateRect(hWnd, NULL, TRUE);
+            break;
+        }
+
+        break;
+        }
+        
     case WM_PAINT:
         {
             PAINTSTRUCT ps;
             HDC hdc = BeginPaint(hWnd, &ps);
 
-            HDC memdc;
-            memdc = CreateCompatibleDC(hdc);
+            DrawCurrent(hdc, current);
 
-            HBITMAP bmw = (HBITMAP)LoadImage(NULL, L"newbed.bmp", IMAGE_BITMAP, 0, 0, LR_LOADFROMFILE);
-            SelectObject(memdc, bmw);
-            BitBlt(hdc, 0, 195, 743, 626, memdc, 0, 0, SRCCOPY);
 
-            std::thread thread(catAnimation, hdc, memdc);
-            
-            thread.join();
+
             // TODO: Добавьте сюда любой код прорисовки, использующий HDC...
             EndPaint(hWnd, &ps);
+
+            break;
         }
-        break;
     case WM_DESTROY:
         PostQuitMessage(0);
         break;
@@ -175,35 +187,11 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT message, WPARAM wParam, LPARAM lParam)
     return 0;
 }
 
-void catAnimation(HDC hdc, HDC memdc) {
-    HBITMAP catstatbmw = (HBITMAP)LoadImage(NULL, L"catstat.bmp", IMAGE_BITMAP, 0, 0, LR_LOADFROMFILE);
-    HBITMAP catleftbmw = (HBITMAP)LoadImage(NULL, L"catleft.bmp", IMAGE_BITMAP, 0, 0, LR_LOADFROMFILE);
-    HBITMAP catrightbmw = (HBITMAP)LoadImage(NULL, L"catright.bmp", IMAGE_BITMAP, 0, 0, LR_LOADFROMFILE);
-
-    while (true) {
-        SelectObject(memdc, catstatbmw);
-        BitBlt(hdc, 100, 0, 286, 268, memdc, 0, 0, SRCINVERT);
-        std::this_thread::sleep_for(std::chrono::nanoseconds(500000000));
-        BitBlt(hdc, 100, 0, 286, 268, memdc, 0, 0, SRCINVERT);
 
 
-        SelectObject(memdc, catleftbmw);
-        BitBlt(hdc, 100, 0, 286, 268, memdc, 0, 0, SRCINVERT);
-        std::this_thread::sleep_for(std::chrono::nanoseconds(500000000));
-        BitBlt(hdc, 100, 0, 286, 268, memdc, 0, 0, SRCINVERT);
-
-        SelectObject(memdc, catstatbmw);
-        BitBlt(hdc, 100, 0, 286, 268, memdc, 0, 0, SRCINVERT);
-        std::this_thread::sleep_for(std::chrono::nanoseconds(500000000));
-        BitBlt(hdc, 100, 0, 286, 268, memdc, 0, 0, SRCINVERT);
 
 
-        SelectObject(memdc, catrightbmw);
-        BitBlt(hdc, 100, 0, 286, 268, memdc, 0, 0, SRCINVERT);
-        std::this_thread::sleep_for(std::chrono::nanoseconds(500000000));
-        BitBlt(hdc, 100, 0, 286, 268, memdc, 0, 0, SRCINVERT);
-    }
-}
+
 
 // Обработчик сообщений для окна "О программе".
 INT_PTR CALLBACK About(HWND hDlg, UINT message, WPARAM wParam, LPARAM lParam)
